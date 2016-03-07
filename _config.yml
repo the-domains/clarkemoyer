@@ -1,0 +1,28 @@
+name: Clarke Moyer
+favicon: null
+layout_spectrum: 0.5580057061742991
+typography_spectrum: 0.5822663055732846
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7949828156270087
+  lightness: 0.6062347830738872
+  saturation: 0.893322543008253
+  rhythmicContrast: 0.6326500033028424
+purpose: []
