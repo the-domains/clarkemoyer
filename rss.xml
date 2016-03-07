@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Clarke Moyer]]></title>
-        <description><![CDATA[Clarke Moyer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Clarke Moyer Personal Homepage]]></title>
+        <description><![CDATA[Clarke Moyer Personal Homepage]]></description>
+        <link>https://thegrid.ai/clarkemoyer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 05:28:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 05:31:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/clarkemoyer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DoD Contractor]]></title>
+            <description><![CDATA[<article><h1>DoD Contractor</h1><p>Since leaving the US Army as a 33W (35T) I have worked for several great contracting companies. My services have focused primarily on information technology support of military intelligence organizations. This support has spanned both conventional and special forces at different echelons as well as for each of the 4 military branches.  For a full listing of my experience and education please view my</p></article>]]></description>
+            <link>https://thegrid.ai/clarkemoyer/0163e9f8-8153-445b-9216-e1277b9d1f7c/index.html</link>
+            <guid isPermaLink="false">0163e9f8-8153-445b-9216-e1277b9d1f7c</guid>
+            <pubDate>Mon, 07 Mar 2016 05:31:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Husband and Father]]></title>
             <description><![CDATA[<article><h1>Husband and Father</h1><p>I am married to April Moyer and we have one child Autumn Moyer. Also living with us at any time is a rescue animal or pet pending adoption by our local animal shelter through the volunteer program. We focus on doing fun things around the house and saving for great international vacations. For  great pictures and a better view of my family life send me a friend request on:</p></article>]]></description>
-            <link>undefined0843e0d5-e3dc-442a-b89b-5e52490dc817/index.html</link>
+            <link>https://thegrid.ai/clarkemoyer/0843e0d5-e3dc-442a-b89b-5e52490dc817/index.html</link>
             <guid isPermaLink="false">0843e0d5-e3dc-442a-b89b-5e52490dc817</guid>
             <pubDate>Mon, 07 Mar 2016 05:28:11 GMT</pubDate>
         </item>
